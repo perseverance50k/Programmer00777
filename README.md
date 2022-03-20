@@ -40,3 +40,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmer00777&" alt="programmer00777" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Programmer00777)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer00777)](https://github.com/anuraghazra/github-readme-stats)
