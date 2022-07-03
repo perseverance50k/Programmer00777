@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">Junior Fullstack Developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Black Bank](https://github.com/Programmer00777/Black-Bank/tree/STAGE5)
+- 🔭 I’m currently working on [Crypto Exchanger](https://github.com/Programmer00777/crypto-exchanger/tree/STAGE2)
 
 - 🌱 I’m currently learning **Spring Security, JavaScript and its frameworks, freeCodeCamp JS course, Elasticsearch, Docker**
 
 - 👯 I’m looking to collaborate on [Simpler V3](https://github.com/Programmer00777/SimplerV2/tree/VERSION-3.0)
 
-- 🤝 I’m looking for help with [Simpler V3](https://github.com/Programmer00777/SimplerV2/tree/VERSION-3.0)
+- 🤝 I’m looking for help with [Crypto Exchanger](https://github.com/Programmer00777/crypto-exchanger/tree/STAGE2)
 
 - 👨‍💻 All of my projects are available at [-](-)
 
