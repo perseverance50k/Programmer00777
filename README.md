@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **chernikov.dev404@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sergey-chernikov-161242230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergey chernikov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14974332/sergey-chernikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:14974332" height="30" width="40" /></a>
