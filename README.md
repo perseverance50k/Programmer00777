@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer00777&show_icons=true&layout=default&count_privat=true&langs_count=10" alt="programmer00777" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer00777&show_icons=true&locale=en" alt="programmer00777" /></p>
-
-<p><img src="https://ionicabizau.github.io/github-profile-languages/api.html?Programmer00777"/></p>
